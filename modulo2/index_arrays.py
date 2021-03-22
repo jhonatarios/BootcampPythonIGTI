@@ -48,6 +48,3 @@ print("\nx antes:", x)
 y = x[:2].copy()
 y[0] = -100 # alteracao do valor em y altera o valor de x
 print("x depois:", x)
-
-
-
